@@ -10,7 +10,8 @@ Este projeto foi criado para fins didáticos
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![Captura de tela 2023-01-03 183715](https://user-images.githubusercontent.com/84820359/210445449-a676ff4f-df4f-4907-8f38-917414946e80.png#vitrinedev)
+![dentalin](https://user-images.githubusercontent.com/84820359/210448813-f592386f-9174-4cf4-8a57-a1efd13cf34f.gif#vitrinedev)
+
 
 
 
