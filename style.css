@@ -62,6 +62,10 @@ body{
     justify-content: center;
     align-items: center;
     border-radius: 5px;
+    transition: filter 250ms;
+}
+.header__cta:hover{
+    filter: brightness(1.2);
 }
 
 .presentation {
@@ -233,8 +237,11 @@ body{
     text-decoration: none;
     border-radius: 5px;
     margin-top: 15px;
+    transition: filter 250ms;
 }
-
+.botton-slogan-description-link:hover{
+    filter: brightness(1.2);
+}
 .botton-slogan-description-img {
     margin-top: 48px;
     max-width: 239px;
